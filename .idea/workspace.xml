@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10674679-ee68-4a16-8290-a9d5b951f944" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_1_2024_3_44_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/BaseApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ResponseGetUserListDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/SupportDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UserDtoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/DeleteUsersTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/GetUsersListTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/PatchUserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/RegistrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/web/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/AddToCart1Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/AddToCart1Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PurchasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PurchasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/WelcomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/WelcomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AddToCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/AddToCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ComparePriceInCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/ComparePriceInCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FillPlaceOrderFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/FillPlaceOrderFormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/RegistrationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8ba474c6-f268-413a-bc69-9b7bd9f2242f" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2lWpNJqVnYaDBzhszu3nFR4sL6E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ComparePriceInCart.testCompare.executor": "Run",
+    "TestNG.DeleteUsersTests.deleteUser.executor": "Run",
+    "TestNG.GetUsersListTests.getUserList_validateEmail.executor": "Run",
+    "TestNG.PatchUserTests.patchUser.executor": "Run",
+    "TestNG.RegistrationTests.registrationNegativeTest.executor": "Run",
+    "TestNG.RegistrationTests.registrationPositiveTest.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Qa-38/QA-42/ProjectsQA42/demoblazeCom",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.DeleteUsersTests.deleteUser">
+    <configuration name="DeleteUsersTests.deleteUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoblazeCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.DeleteUsersTests" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsersListTests.getUserList_validateEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoblazeCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.GetUsersListTests" />
+      <option name="METHOD_NAME" value="getUserList_validateEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatchUserTests.patchUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoblazeCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.PatchUserTests" />
+      <option name="METHOD_NAME" value="patchUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTests.registrationNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoblazeCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.RegistrationTests" />
+      <option name="METHOD_NAME" value="registrationNegativeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTests.registrationPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoblazeCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api" />
+      <option name="MAIN_CLASS_NAME" value="api.RegistrationTests" />
+      <option name="METHOD_NAME" value="registrationPositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DeleteUsersTests.deleteUser" />
+        <item itemvalue="TestNG.GetUsersListTests.getUserList_validateEmail" />
+        <item itemvalue="TestNG.RegistrationTests.registrationNegativeTest" />
+        <item itemvalue="TestNG.RegistrationTests.registrationPositiveTest" />
+        <item itemvalue="TestNG.PatchUserTests.patchUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10674679-ee68-4a16-8290-a9d5b951f944" name="Changes" comment="1" />
+      <created>1725305647852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725305647852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/api/RegistrationTests.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/api/GetUsersListTests.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
